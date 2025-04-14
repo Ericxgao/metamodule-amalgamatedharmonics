@@ -1,0 +1,92 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-amalgamatedharmonics",
+    "MetaModuleDescription": "AmalgamatedHarmonics for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Arp31",
+            "name": "Arp 3.1 - Chord"
+        },
+        {
+            "slug": "Arp32",
+            "name": "Arp 3.2 - Pattern"
+        },
+        {
+            "slug": "Bombe",
+            "name": "Bombe"
+        },
+        {
+            "slug": "Circle",
+            "name": "Fifths and Fourths"
+        },
+        {
+            "slug": "Chord",
+            "name": "D'acchord"
+        },
+        {
+            "slug": "Galaxy",
+            "name": "Galaxy"
+        },
+        {
+            "slug": "Generative",
+            "name": "Generative"
+        },
+        {
+            "slug": "Imp",
+            "name": "Imp"
+        },
+        {
+            "slug": "Imperfect2",
+            "name": "Imperfect MkII"
+        },
+        {
+            "slug": "Progress2",
+            "name": "Progress MkII"
+        },
+        {
+            "slug": "Ruckus",
+            "name": "Ruckus"
+        },
+        {
+            "slug": "ScaleQuantizer2",
+            "name": "Scale Quantizer MkII"
+        },
+        {
+            "slug": "SLN",
+            "name": "SLN"
+        },
+        {
+            "slug": "MuxDeMux",
+            "name": "MuxDeMux"
+        },
+        {
+            "slug": "PolyProbe",
+            "name": "PolyProbe"
+        },
+        {
+            "slug": "PolyScope",
+            "name": "PolyScope"
+        },
+        {
+            "slug": "PolyUtils",
+            "name": "PolyUtils"
+        },
+        {
+            "slug": "PolyVolt",
+            "name": "PolyVolt"
+        },
+        {
+            "slug": "Arpeggiator2",
+            "name": "Arpeggiator MkII (deprecated)"
+        },
+        {
+            "slug": "Progress",
+            "name": "Progress  (deprecated)"
+        },
+        {
+            "slug": "ScaleQuantizer",
+            "name": "Scale Quantizer (legacy)"
+        }
+    ]
+}
