@@ -5,10 +5,6 @@
     "MetaModuleDescription": "AmalgamatedHarmonics for MetaModule",
     "MetaModuleIncludedModules": [
         {
-            "slug": "Arp31",
-            "name": "Arp 3.1 - Chord"
-        },
-        {
             "slug": "Arp32",
             "name": "Arp 3.2 - Pattern"
         },
